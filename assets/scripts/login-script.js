@@ -64,6 +64,3 @@ loginFormElement.addEventListener('submit', function(event) {
  
   }
 });
-
-
-Setelah itu jangan lupa untuk menyimpan perubahan tersebut dengan menekan tombol Commit change.
